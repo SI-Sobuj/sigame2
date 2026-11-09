@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Echo",
+  "description": "An atmospheric 2D acoustic memory puzzle game where expanding sound waves temporarily illuminate invisible labyrinth walls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
